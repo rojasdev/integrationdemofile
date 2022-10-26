@@ -1,0 +1,11 @@
+MT Exercise #1
+1) Demonstrate the use of XML in the delivery of information by creating the following:
+- Database of records (can be any information composed of 4 or more information)
+- Create a single page RSS feed using PHP and apply formatting.
+2) Comment all links code(github) and site(heroku) to submit.
+
+
+
+MT Exam
+
+Create a website that acts as a portal of information coming from different sources (2 or more sources). Source feeds can be in an XML or JSON format. Information must be aligned and relevant with each other.
